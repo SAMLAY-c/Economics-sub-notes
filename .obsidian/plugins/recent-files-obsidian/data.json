@@ -1,6 +1,142 @@
 {
   "recentFiles": [
     {
+      "basename": "31",
+      "path": "02-Areas/01-学习/04-统计学/03-自学笔记/31.md"
+    },
+    {
+      "basename": "ch9分类数据分析",
+      "path": "02-Areas/01-学习/04-统计学/01-教材资料/ch9分类数据分析.pdf"
+    },
+    {
+      "basename": "31",
+      "path": "02-Areas/01-学习/04-统计学/02-课堂笔记/31.md"
+    },
+    {
+      "basename": "31",
+      "path": "02-Areas/01-学习/04-统计学/01-教材资料/31.md"
+    },
+    {
+      "basename": "39",
+      "path": "02-Areas/01-学习/04-统计学/01-教材资料/39.md"
+    },
+    {
+      "basename": "ch8-假设检验1",
+      "path": "02-Areas/01-学习/04-统计学/01-教材资料/ch8-假设检验1.pdf"
+    },
+    {
+      "basename": "28",
+      "path": "02-Areas/01-学习/04-统计学/01-教材资料/28.md"
+    },
+    {
+      "basename": "27",
+      "path": "02-Areas/01-学习/04-统计学/01-教材资料/27.md"
+    },
+    {
+      "basename": "32",
+      "path": "02-Areas/01-学习/04-统计学/01-教材资料/32.md"
+    },
+    {
+      "basename": "33",
+      "path": "02-Areas/01-学习/04-统计学/01-教材资料/33.md"
+    },
+    {
+      "basename": "2025年05月14日",
+      "path": "05-Journal/Daily/2025年05月14日.md"
+    },
+    {
+      "basename": "2",
+      "path": "02-Areas/01-学习/04-统计学/03-自学笔记/2.md"
+    },
+    {
+      "basename": "2025年05月10日",
+      "path": "05-Journal/Daily/2025年05月10日.md"
+    },
+    {
+      "basename": "2025年05月13日",
+      "path": "05-Journal/Daily/2025年05月13日.md"
+    },
+    {
+      "basename": "0-数据原始",
+      "path": "02-Areas/01-学习/09-财政学/04-政策研究/养老/0-数据原始.md"
+    },
+    {
+      "basename": "1.0 ai版本",
+      "path": "01-Projects/05-CMAU竞赛项目/01-研究与分析/03-调查问卷/1.0 ai版本.md"
+    },
+    {
+      "basename": "01-学习心得",
+      "path": "03-Resources/06-职场技能/05-学习方法论/01-学习心得.md"
+    },
+    {
+      "basename": "01-双非经济学本科就业指南",
+      "path": "03-Resources/08-双非经济学本科就业/01-双非经济学本科就业指南.md"
+    },
+    {
+      "basename": "00-数据分析学习路径",
+      "path": "02-Areas/01-学习/08-数据分析/00-数据分析学习路径.md"
+    },
+    {
+      "basename": "02-视频2",
+      "path": "01-Projects/01-竞赛项目/01-安永ESG竞赛/01-会议与讲座/02-视频2.md"
+    },
+    {
+      "basename": "2025年05月12日",
+      "path": "05-Journal/Daily/2025年05月12日.md"
+    },
+    {
+      "basename": "2-分析1",
+      "path": "02-Areas/01-学习/09-财政学/04-政策研究/养老/2-分析1.md"
+    },
+    {
+      "basename": "2-分析2",
+      "path": "02-Areas/01-学习/09-财政学/04-政策研究/养老/2-分析2.md"
+    },
+    {
+      "basename": "1",
+      "path": "01-Projects/08-AI/0-认知/deepseek/1.md"
+    },
+    {
+      "basename": "2025年05月09日",
+      "path": "05-Journal/Daily/2025年05月09日.md"
+    },
+    {
+      "basename": "2025年05月08日",
+      "path": "05-Journal/Daily/2025年05月08日.md"
+    },
+    {
+      "basename": "金融业的全方位岗位",
+      "path": "01-Projects/07-考研及就业/金融业的全方位岗位.md"
+    },
+    {
+      "basename": "00-实习准备",
+      "path": "01-Projects/01-数据分析实习/00-实习准备.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "02-Areas/01-学习/08-数据分析/未命名.md"
+    },
+    {
+      "basename": "就业方向",
+      "path": "01-Projects/07-考研及就业/就业方向.md"
+    },
+    {
+      "basename": "第一份工作",
+      "path": "01-Projects/07-考研及就业/第一份工作.md"
+    },
+    {
+      "basename": "实习",
+      "path": "01-Projects/07-考研及就业/实习.md"
+    },
+    {
+      "basename": "券商",
+      "path": "01-Projects/07-考研及就业/券商.md"
+    },
+    {
+      "basename": "行业选择",
+      "path": "01-Projects/07-考研及就业/行业选择.md"
+    },
+    {
       "basename": "4",
       "path": "02-Areas/01-学习/05-投资学/02-课堂笔记/4.md"
     },
@@ -25,10 +161,6 @@
       "path": "01-Projects/02-证书考试/02-财会证书/初会/实务/押题 01.md"
     },
     {
-      "basename": "2025年05月08日",
-      "path": "05-Journal/Daily/2025年05月08日.md"
-    },
-    {
       "basename": "README",
       "path": "01-Projects/02-证书考试/02-财会证书/README.md"
     },
@@ -43,14 +175,6 @@
     {
       "basename": "ch8-假设检验2",
       "path": "02-Areas/01-学习/04-统计学/01-教材资料/ch8-假设检验2.pdf"
-    },
-    {
-      "basename": "ch9分类数据分析",
-      "path": "02-Areas/01-学习/04-统计学/01-教材资料/ch9分类数据分析.pdf"
-    },
-    {
-      "basename": "ch8-假设检验1",
-      "path": "02-Areas/01-学习/04-统计学/01-教材资料/ch8-假设检验1.pdf"
     },
     {
       "basename": "习题1",
@@ -73,60 +197,8 @@
       "path": "02-Areas/01-学习/08-数据分析/00-讲稿/00.md"
     },
     {
-      "basename": "未命名",
-      "path": "02-Areas/01-学习/08-数据分析/未命名.md"
-    },
-    {
       "basename": "README",
       "path": "02-Areas/01-学习/08-数据分析/README.md"
-    },
-    {
-      "basename": "基础",
-      "path": "02-Areas/01-学习/08-数据分析/03-自学笔记/基础.md"
-    },
-    {
-      "basename": "00-数据分析学习路径",
-      "path": "02-Areas/01-学习/08-数据分析/00-数据分析学习路径.md"
-    },
-    {
-      "basename": "第四章 产权理论",
-      "path": "第四章 产权理论.md"
-    },
-    {
-      "basename": "第七章 制度变迁与经济发展",
-      "path": "第七章 制度变迁与经济发展.md"
-    },
-    {
-      "basename": "00_概念回答",
-      "path": "02-Areas/01-学习/04-统计学/03-自学笔记/00_概念回答.md"
-    },
-    {
-      "basename": "32_理解",
-      "path": "02-Areas/01-学习/04-统计学/03-自学笔记/32_理解.md"
-    },
-    {
-      "basename": "32_总结",
-      "path": "02-Areas/01-学习/04-统计学/03-自学笔记/32_总结.md"
-    },
-    {
-      "basename": "第5章",
-      "path": "02-Areas/01-学习/07-制度经济学/03-自学笔记/第5章.md"
-    },
-    {
-      "basename": "PPT内容",
-      "path": "02-Areas/01-学习/07-制度经济学/02-课堂笔记/PPT内容.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "02-Areas/01-学习/07-制度经济学/02-课堂笔记/未命名.md"
-    },
-    {
-      "basename": "32",
-      "path": "02-Areas/01-学习/04-统计学/01-教材资料/32.md"
-    },
-    {
-      "basename": "28",
-      "path": "02-Areas/01-学习/04-统计学/01-教材资料/28.md"
     }
   ],
   "omittedPaths": [],
