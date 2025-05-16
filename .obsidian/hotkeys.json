@@ -1,12 +1,4 @@
 {
-  "quickadd:runQuickAdd": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Q"
-    }
-  ],
   "editor:set-heading-1": [
     {
       "modifiers": [],
@@ -51,5 +43,57 @@
       ],
       "key": "ArrowLeft"
     }
-  ]
+  ],
+  "templater-obsidian:create-06-Templates/next_sequence_note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "Enhanced-editing:internal-link2": [],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "Enhanced-editing:biaoti0-text": [],
+  "templater-obsidian:create-06-Templates/next_sequence_note【思考】.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "templater-obsidian:create-06-Templates/next_sequence_note【考点】.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:create-06-Templates/子主题【考点】.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "templater-obsidian:insert-templater": [],
+  "templater-obsidian:create-06-Templates/子主题【思考】.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "templater-obsidian:replace-in-file-templater": []
 }
