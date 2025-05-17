@@ -7,7 +7,6 @@
   "obsidian-memos",
   "obsidian-tasks-plugin",
   "templater-obsidian",
-  "obsidian-react-components",
   "periodic-notes",
   "obsidian-tracker",
   "customizable-page-header-buttons",
@@ -23,9 +22,9 @@
   "cmdr",
   "obsidian-image-auto-upload-plugin",
   "obsidian-linter",
-  "obsidian-to-anki-plugin",
   "obsidian42-brat",
   "Enhanced-editing",
   "note-refactor-obsidian",
-  "link-favicon"
+  "link-favicon",
+  "obsidian-to-anki-plugin"
 ]
